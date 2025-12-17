@@ -1,0 +1,13 @@
+name = "Oh The Biomes We've Gone"
+filename = "Oh-The-Biomes-Weve-Gone-Forge-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/N1BsLkDk/Oh-The-Biomes-Weve-Gone-Forge-1.7.2.jar"
+hash-format = "sha512"
+hash = "2449c57cf98a5111d5d059619efd34fdd987ca539dab0daaf04f1b403b36c3107aaa6a67255319a60f5e83a4b99e52475358662f41560655a3270fb3255ea44b"
+
+[update]
+[update.modrinth]
+mod-id = "NTi7d3Xc"
+version = "N1BsLkDk"
