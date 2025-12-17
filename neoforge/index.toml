@@ -6,6 +6,11 @@ hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
+metafile = true
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "26ebcc24106ded2bec288547aba566a6ca92fd685c23d1a6221765f6f3f3e5c9"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "10ace47a600cbe519cb7aad182367792523155591165b852c546d6257e1df3db"
 metafile = true
 
 [[files]]
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
 metafile = true
 
 [[files]]
@@ -226,6 +241,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+metafile = true
+
+[[files]]
 file = "mods/gallery.pw.toml"
 hash = "513dff304eaff520c5b25a5b245518c95053a58b4c3ca58c070a5ffa14e0c7bf"
 metafile = true
@@ -233,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
