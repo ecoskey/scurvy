@@ -31,6 +31,11 @@ hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "5a53be204efcb61ed865b934d60f0ed29fa74d02ebecb1276f668d6baa57e40b"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "10ace47a600cbe519cb7aad182367792523155591165b852c546d6257e1df3db"
 metafile = true
@@ -281,11 +286,6 @@ hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
@@ -411,18 +411,8 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "d948acee031db5a8190fe05f2f2434584e6a4323c4ced6be03d2de091a05f9ba"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "667dacb1193a887bc068a3c819839e06c82959d2ba61c85736296420ed334579"
 metafile = true
 
 [[files]]
@@ -458,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "80d8a6648182daa3cd346db6235fe3dcbc3b8d8573507b27d3e8fdf6d9efd048"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
 metafile = true
 
 [[files]]
@@ -538,4 +523,9 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "353939cab2b72be526a3ab124c1f7a17bb354f88ee067197f25ebaa807e9dd2d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
