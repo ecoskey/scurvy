@@ -261,11 +261,6 @@ hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "22f7bd473bdc5add41d8afa0dc89dc442d77695a4675c3abf792c0981cc9ce9b"
-metafile = true
-
-[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
