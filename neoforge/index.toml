@@ -56,8 +56,18 @@ hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
+metafile = true
+
+[[files]]
 file = "mods/autumnity.pw.toml"
 hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
 
 [[files]]
@@ -91,6 +101,16 @@ hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -106,8 +126,33 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
@@ -211,6 +256,11 @@ hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
@@ -233,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
@@ -291,8 +346,18 @@ hash = "50daff3fb7b8a5ae63c27d6f4be7730d0b22c063c594536b58d4e6c1b8ffd563"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "605a6c71b36a1333d9074143c4cd8dad75d8af68af586462c868287d7bbfa7a4"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "bd496127dfae8939188c1eb6d6e77930a2f89514308169abed5d27a7b3199ac2"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
 
 [[files]]
@@ -336,6 +401,11 @@ hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "6a9a422bdfaa616f3931c069d1e1d7b27c0b225ba54c61d160869d3c9c179b55"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
@@ -343,6 +413,16 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
 
 [[files]]
@@ -501,6 +581,11 @@ hash = "f54003416e887882952b9a07e339829362c2c597ccd2d651c0a03d2120fb8a3a"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
@@ -523,6 +608,16 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "85e4be7fb8dd729d264ae48c3546882efe2cfe6677ee2720bb8a50069fee2c6d"
 metafile = true
 
 [[files]]
