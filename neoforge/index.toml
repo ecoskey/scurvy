@@ -486,11 +486,6 @@ hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
 
 [[files]]
-file = "mods/recipe-modification.pw.toml"
-hash = "fcc5142f8aa8a7c0d9d26dcfd5727f3cf046bd2f1def594ef74e969df48cef9a"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
