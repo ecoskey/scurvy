@@ -1,0 +1,13 @@
+name = "Antique Atlas 4"
+filename = "antique-atlas-3.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/mLTFQAkS/antique-atlas-3.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "a63016e3514b1c8d78ccafc994146b3f95d461fd4ed3086c4082195f087b2e6f93d546d0dd1ecf029cf873fd852199d4d80e6a1f17d61f426e84d56e74f5248e"
+
+[update]
+[update.modrinth]
+mod-id = "Y5Ve4Ui4"
+version = "mLTFQAkS"

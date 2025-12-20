@@ -1,13 +1,13 @@
 name = "Ok Zoomer"
-filename = "ok_zoomer-forge-5.4.0-beta.8.jar"
+filename = "ok_zoomer-neo-10.0.0-beta.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/s4W0Kgaa/ok_zoomer-forge-5.4.0-beta.8.jar"
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/9r90qGm7/ok_zoomer-neo-10.0.0-beta.10.jar"
 hash-format = "sha512"
-hash = "d5333c1a3e9c255aa6fbdeb5bbd6d8009b208681dccc931e0168a4207365bffcfa05b44621c2d17f30a3e4c1bf8dab3e3a06fb1c29f10608d36fa0abc2187add"
+hash = "43428c76af367b5f741ec0f65f6a4c0f44c38edf845bd162561a0a787b3d8399010336ec8b4a85fa3356ef83e602d8b61c67a14944627d34b7a757d46d982425"
 
 [update]
 [update.modrinth]
 mod-id = "aXf2OSFU"
-version = "s4W0Kgaa"
+version = "9r90qGm7"
