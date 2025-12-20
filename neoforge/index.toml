@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "5cb42fa754a8f36c594a1f9b267a1b122a4028a4fe8944351ea9888f74c8382a"
+hash = "c3b8a20ebb2c6f5809ade820ceb087c0be1ddfc0d99cbb4ec35074513e7cf6d2"
 metafile = true
 
 [[files]]
@@ -186,8 +186,18 @@ hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/emixx.pw.toml"
 hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
 
 [[files]]
@@ -268,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
+metafile = true
+
+[[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "50daff3fb7b8a5ae63c27d6f4be7730d0b22c063c594536b58d4e6c1b8ffd563"
 metafile = true
 
 [[files]]
@@ -481,8 +501,23 @@ hash = "f54003416e887882952b9a07e339829362c2c597ccd2d651c0a03d2120fb8a3a"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
