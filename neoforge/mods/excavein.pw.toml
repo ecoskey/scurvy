@@ -1,0 +1,13 @@
+name = "QoM: Excavein"
+filename = "ExcaVein-1.21-2.0a.Release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NAMQ1fMP/versions/qVnLuTJk/ExcaVein-1.21-2.0a.Release.jar"
+hash-format = "sha512"
+hash = "cc9cf7026d201657777f12b27ba1375672aa2481f97ad96664a6a29ae3029383d99e6eebff4dbfde1684010d02549d287cb3e4fa5c44bba4e56168a7f55e74e9"
+
+[update]
+[update.modrinth]
+mod-id = "NAMQ1fMP"
+version = "qVnLuTJk"
