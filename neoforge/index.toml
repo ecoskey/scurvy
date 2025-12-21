@@ -301,6 +301,11 @@ hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
 metafile = true
 
 [[files]]
+file = "mods/excavein.pw.toml"
+hash = "c038a82c50852e3df0ae315da7ec3968e8b8ebf545488c312f02a077ca342de3"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "c22010071589a36869a478fda1eae893adcc15fc9ab9996a195cc6f54333891b"
 metafile = true
@@ -652,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "25ed20b3a95a839342eafe01063cd3ad7acf39c588c43a2feb4877152039ecad"
+hash = "ee4d30e45f196b78932dc795c211a9214d033397d79ed27ca05dbb82b02c2775"
 metafile = true
 
 [[files]]
