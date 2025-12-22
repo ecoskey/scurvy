@@ -381,6 +381,11 @@ hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "7f32b9e2f63326854c34d323ac5f79f8e2f9f8a0b0d38cf626c5e4c0508ff187"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
 hash = "f9d6066af451fea354df2295293ee2ffd82b76c3707f6b548dbaf52886975c17"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "c54b102e4f659be6aaf95290191279fc34db7404006f645dbf04be21038e837b"
 metafile = true
 
 [[files]]
